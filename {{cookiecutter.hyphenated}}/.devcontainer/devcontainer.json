@@ -1,7 +1,7 @@
 {
 	"name": "{{cookiecutter.underscored}}",
 	"build": {
-		"dockerfile": "../Dockerfile",
+		"dockerfile": "../Dockerfile"
 	},
 	"extensions": [	
 		"ms-vscode.test-adapter-converter",

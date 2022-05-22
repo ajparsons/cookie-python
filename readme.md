@@ -1,0 +1,2 @@
+# Python poetry cookiecutter template
+

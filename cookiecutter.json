@@ -5,5 +5,7 @@
   "underscored": "{{ cookiecutter.hyphenated.replace('-', '_') }}",
   "github_username": "",
   "author_name": "",
-  "year":"{% now 'utc', '%Y' %}"
+  "author_email": "",
+  "year":"{% now 'utc', '%Y' %}",
+  "github_id": "user/repo"
 }

@@ -31,6 +31,6 @@ The default licence is the MIT Licence. Change if needed.
 
 # Publishing the package
 
-* Set a github action token for PYPI_TOKEN. 
-* For an initial publish. In the Actions tab for a repo, trigger a manual workfork flow with the 'force to pypi' box ticked.
-* Subsequently, if the poetry version is bumped and all tests pass - the github action will automatically publish on push to the main branch.
+* Set a GitHub Actions secret for PYPI_TOKEN. 
+* For the initial publish. In the Actions tab for a repo, trigger a manual workfork flow with the 'force to pypi' box ticked.
+* Subsequently, if the poetry version is bumped and all tests pass - the GitHub Action will automatically publish on push to the main branch.

@@ -1,5 +1,8 @@
 # Poetry cookiecutter template
 
+
+!!! [This tenmplate has been merged into another repo](https://github.com/ajparsons/poetry-auto-template/) !!!
+
 Cookiecutter template for seting up a new poetry-based python package. You can use locally (if the python cookiecutter package is installed using):
 
 ```
